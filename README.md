@@ -5,4 +5,4 @@ With help of details like , Previous Education, Amount of Hours You study , Your
 
 ### differentiating factor
 when he/she/they will press on calculate 
-user will get a pop up of news where we will show how many people died of jee exams , and how it would be better if her enjoys life more .
+user will get a pop up of news where we will show how many people died of jee exams , and how it would be better if user enjoys life more .
